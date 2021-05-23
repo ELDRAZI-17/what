@@ -5,6 +5,9 @@
 ➡️ If you want, you can share the link with your friends, eldrazi-17.github.io/what/, maybe they are less intelligent than you...
  
  
+➡️ If you have a github account, you can put a star here https://github.com/ELDRAZI-17/what too.
+ 
+ 
 ░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄
 ░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄
 ░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█
